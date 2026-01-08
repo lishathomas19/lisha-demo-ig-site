@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "demo.ig",
+    "type" : "ImplementationGuide",
+    "url" : "https://lishathomas19.github.io/lisha-demo-ig-site/ImplementationGuide/demo.ig",
+    "version" : "1.0.0",
+    "name" : "DemoImplementationGuide"
+  },
+  {
+    "id" : "demo-patient",
+    "type" : "StructureDefinition",
+    "url" : "https://lishathomas19.github.io/lisha-demo-ig-site/StructureDefinition/demo-patient",
+    "version" : "1.0.0",
+    "name" : "DemoPatient"
+  }
+]
